@@ -133,6 +133,8 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/157.ts
 http://iptv.kitv.live:1935/live/Shari/MTV-P/194.ts
 #EXTINF:-1,STAR SPORTS 1
 http://iptv.kitv.live:1935/live/Shari/MTV-P/161.ts
+#EXTINF:-1,Star Sports 2
+https://akamai.anytv.live/StartSports2HHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Dsport
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
 #EXTINF:-1,Abudhabi Sports 1
