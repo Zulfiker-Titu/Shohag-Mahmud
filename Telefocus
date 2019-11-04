@@ -87,8 +87,8 @@ http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh1.stream_aac/playlist.m3u8
 http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh2.stream_aac/playlist.m3u8
 #EXTINF:-1,Pratidin Time
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
-#EXTINF:-1,NEPALI TV
-http://live.zecast.net/ntvglobal/nepalitv/chunklist.m3u8
+#EXTINF:-1,SONY YAY
+http://iptv.kitv.live:1935/live/Shari/MTV-P/172.ts
 #EXTINF:-1,DISENY XD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/171.ts
 #EXTINF:-1,Disney Junior
