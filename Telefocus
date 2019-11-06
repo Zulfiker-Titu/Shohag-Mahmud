@@ -187,6 +187,8 @@ http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
 #EXTINF:-1,Mirror Now
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+#EXTINF:-1,Sunnah
+http://m.live.net.sa:1935/live/sunnah/chunklist_w130539997.m3u8?v=3161277789
 #EXTINF:-1,FOOD NETWORK 1
 http://95.86.32.7:999/food
 #EXTINF:-1,FOOD TV
