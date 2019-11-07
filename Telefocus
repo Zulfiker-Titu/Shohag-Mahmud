@@ -107,14 +107,10 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/174.ts
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
 #EXTINF:-1,EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1,KIDS
-https://stitcher.pluto.tv/stitch/hls/channel/5ad8d54be738977e2c310940/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=j7go93gc2nj2bijagutmn2d3v6
 #EXTINF:-1,Kids TV
 http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=c8b023af-ff3b-4fb6-87f0-4af929510c3d&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1,DUBBI KIDS
 https://livelist01.yowi.tv/lista/2772ab10257fcbb71bc1eb00d0660c0bfddd4075/master.m3u8
-#EXTINF:-1,KIDS LEARNING
-https://stitcher.pluto.tv/stitch/hls/channel/5c5c2e228002db3c3e0b1c6f/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=c45b9ea1nuf9ijm985tiag4ge6
 #EXTINF:-1,CARTOONS 4U
 https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,After School CARTOONS
@@ -263,8 +259,6 @@ https://akamai.anytv.live/StarBharatHD/tracks-v1a1/mono.m3u8
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 #EXTINF:-1,DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
-#EXTINF:-1,DD KISAN
-https://nicls2-lh.akamaihd.net/i/ddkisan_1@409176/master.m3u8
 #EXTINF:-1,FOX Life
 https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 #EXTINF:-1,History TV
