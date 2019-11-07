@@ -39,6 +39,8 @@ https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 #EXTINF:-1,Gazi TV
 https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#EXTINF:-1,Gazi TV (Extra)
+http://iptv.kitv.live:1935/live/Shari/MTV-P/110.ts
 #EXTINF:-1,Independent TV
 https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
 #EXTINF:-1,Jamuna TV
