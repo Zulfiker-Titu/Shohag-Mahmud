@@ -69,6 +69,8 @@ http://27.147.156.14:1935/Somoy-TV/Somoy-TV.stream/chunks.m3u8
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1,RPLUS NEWS
 http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh4.stream_aac/playlist.m3u8
+#EXTINF:-1,ARTAGE NEWS
+http://artage.livebox.co.in/ArtageNewshls/live.m3u8
 #EXTINF:-1,Akash AATH
 http://iptv.kitv.live:1935/live/Shari/MTV-P/130.ts
 #EXTINF:-1,Colors Bangla
@@ -111,6 +113,8 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/170.ts
 http://iptv.kitv.live:1935/live/Shari/MTV-P/174.ts
 #EXTINF:-1,KETNET JUNIOR
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
+#EXTINF:-1,AKARAM KIDZ
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 #EXTINF:-1,RAI GULP
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
 #EXTINF:-1,EBS KIDS
@@ -183,6 +187,8 @@ http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
 #EXTINF:-1,The Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1,WEATHER NATION
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1,BBC World News
 https://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8
 #EXTINF:-1,CNN
@@ -201,6 +207,16 @@ http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
 #EXTINF:-1,Mirror Now
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+#EXTINF:-1,ABP NEWS
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
+#EXTINF:-1,CNBC AWAAZ
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+#EXTINF:-1,NEWS NATION
+https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/playlist.m3u8
+#EXTINF:-1,NEWS STATE
+https://hls2.newsstate.com/NS1_HTTP_LIVE/ngrp:myStream_all/chunklist.m3u8
+#EXTINF:-1,LAHORE NEWS
+http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
 #EXTINF:-1,Sunnah
 http://m.live.net.sa:1935/live/sunnah/chunklist_w130539997.m3u8?v=3161277789
 #EXTINF:-1,ARY DIGITAL
@@ -211,6 +227,8 @@ http://95.86.32.7:999/food
 http://stitcher.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1,FOOD FOOD
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/playlist.m3u8?e=0&h=c97c566b44b7eaae0f80526ffd838aa1&__nn__=5606168722001&hdnea=1572355800_980c04e0053042ec83efd6f203533916
+#EXTINF:-1,FOOD52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1,Star Movies India
 https://akamai.anytv.live/StarMoviesHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Movies UAE
@@ -304,6 +322,18 @@ http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 #EXTINF:-1,MALDIVES TV
 https://58bdd3c8ef31c.streamlock.net/live/smil:maldivestv.smil/chunklist_w286000383_b1596000_sleng.m3u8
+#EXTINF:-1,TVM
+http://54.169.75.117:1935/live/livestream/chunklist.m3u8
+#EXTINF:-1,VTV
+http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
+#EXTINF:-1,HIRU TV
+http://cdncities.com/8012/8012/playlist.m3u8
+#EXTINF:-1,ITN
+http://cdncities.com/itndvr2/itndvr2/playlist.m3u8
+#EXTINF:-1,GEO TV
+http://stream.jeem.tv/geo/geoentertainment/chunks.m3u8
+#EXTINF:-1,VYAS HIGHER EDUCATION CHANNEL
+http://playhls.media.nic.in/live/vyas/index.m3u8
 #EXTINF:-1,5 PLUS
 http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/playlist.m3u8
 #EXTINF:-1,FS1 SALZBURG
@@ -378,3 +408,7 @@ http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
 http://51.15.236.137/hls/stream.m3u8
 #EXTINF:-1,MUSIC HANEEN
 http://streaming.i-sat.tv:1935/livestream/MusicAl-haneen/chunklist_w379649003.m3u8
+#EXTINF:-1,MN TV MUSIC
+http://mntv.livebox.co.in/musichls/live.m3u8
+#EXTINF:-1,BOX HITS
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
