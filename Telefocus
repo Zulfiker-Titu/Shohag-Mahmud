@@ -237,6 +237,10 @@ https://hls2.newsstate.com/NS1_HTTP_LIVE/ngrp:myStream_all/chunklist.m3u8
 http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
 #EXTINF:-1,Sunnah
 http://m.live.net.sa:1935/live/sunnah/chunklist_w130539997.m3u8?v=3161277789
+#EXTINF:-1,MADANI CHANNEL (English)
+https://svs.itworkscdn.net/madanitvenlive/mdtve.smil/playlist.m3u8
+#EXTINF:-1,MADANI CHANNEL (Urdu)
+https://svs.itworkscdn.net/madanitvurdulive/mdtvu.smil/playlist.m3u8
 #EXTINF:-1,ARY DIGITAL
 http://158.69.229.29:8081/digital_abr/streamabr/digital/livestream_720p/chunks.m3u8
 #EXTINF:-1,FOOD NETWORK 1
