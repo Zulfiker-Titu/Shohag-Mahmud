@@ -75,6 +75,8 @@ http://artage.livebox.co.in/ArtageNewshls/live.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/130.ts
 #EXTINF:-1,Colors Bangla
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
+#EXTINF:-1,KOLKATA TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/202.ts
 #EXTINF:-1,SONY AATH
 http://iptv.kitv.live:1935/live/Shari/MTV-P/123.ts
 #EXTINF:-1,Star Jalsha
@@ -85,8 +87,20 @@ https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 #EXTINF:-1,Zee Bangla Cinema
 http://27.147.156.14:1935/Zee-Bangla-Cinema/Zee-Bangla-Cinema.stream/chunks.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://iptv.kitv.live:1935/live/Shari/MTV-P/167.ts
 #EXTINF:-1,CHANNEL T1
 http://128.199.212.160/channelt1/1080/index.m3u8
+#EXTINF:-1,Deshi TV
+http://72.139.72.18:1935/live/myStream/playlist.m3u8
+#EXTINF:-1,Madami Channel Bangla
+http://svs.itworkscdn.net/madanitvbalive/mdtvb.smil/playlist.m3u8
+#EXTINF:-1,Nandan TV
+http://nandansyst.com/hls/nandan.m3u8
+#EXTINF:-1,Gaan Bangla
+https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
+#EXTINF:-1,Sangeet Bangla
+https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
 #EXTINF:-1,Assam Talk
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
 #EXTINF:-1,DY365
@@ -117,6 +131,8 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/174.ts
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 #EXTINF:-1,AKARAM KIDZ
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:-1,SONIC
+https://itpolly.iptv.digijadoo.net/live/sonic/chunks.m3u8
 #EXTINF:-1,RAI GULP
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
 #EXTINF:-1,EBS KIDS
@@ -293,7 +309,8 @@ http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699
 http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
 #EXTINF:-1,MANDARIN MOVIES 2
 http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
-#EXTINF:-1,MANDARIN MOVIES 3 http://tx.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1.m3u8
+#EXTINF:-1,MANDARIN MOVIES 3
+http://tx.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1.m3u8
 #EXTINF:-1,MANDARIN MOVIES 5
 http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8
 #EXTINF:-1,Zee Aflam
@@ -322,6 +339,18 @@ https://akamai.anytv.live/StarBharatHD/tracks-v1a1/mono.m3u8
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 #EXTINF:-1,DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+#EXTINF:-1,5 AAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1,EET TV
+http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
+#EXTINF:-1,FLOWER TV
+https://sony-yupp.akamaized.net/hls/live/2004701/FlowersTVSONY/FlowersTVSONY/playlist.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1573412400_dc8072bc58aa298e68ad592c197ed894
+#EXTINF:-1,IBC 24
+https://livetv.ibc24.in/livestream.m3u8?__nn__=5606168722001&hdnea=st=1573408800~exp=1573412400~acl=/*~hmac=97bbdb7cff541d142d1f43d9faa93814eb0ecd134dd3243338a6b5100d51cb34
+#EXTINF:-1,ISAI ARUVI
+https://playback.sonyliv.com/yupptvtest.m3u8?window=3000&channel=812&__nn__=5606168722001&hdnea=1573414200_082ec8dd0262f74595c1a3510a1092d3
+#EXTINF:-1,JAYA MAX
+https://playback.sonyliv.com/yupptvtest.m3u8?window=3000&channel=165&__nn__=5606168722001&hdnea=1573414200_3f3ba2b8e523a99fc3451ef30adab007
 #EXTINF:-1,KAUMUDY TV
 http://28noromvdm6g-hls-live.wmncdn.net/kaumuditv1/live.stream/tracks-v1a1/index.m3u8
 #EXTINF:-1,MALDIVES TV
@@ -354,8 +383,6 @@ https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/history_tv/chunks.m3u8
 #EXTINF:-1,ANIMAL PLANET
 http://iptv.kitv.live:1935/live/Shari/MTV-P/155.ts
-#EXTINF:-1,DISCOVERY CHANNEL
-http://iptv.kitv.live:1935/live/Shari/MTV-P/167.ts
 #EXTINF:-1,NAT GEO WILD
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1,NAT GEO PEOPLE
@@ -370,10 +397,6 @@ http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=3
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 #EXTINF:-1,TLC
 http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:-1,Gaan Bangla
-https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
-#EXTINF:-1,Sangeet Bangla
-https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
 #EXTINF:-1,8xM
 http://iptv.kitv.live:1935/live/Shari/MTV-P/178.ts
 #EXTINF:-1,9xM
