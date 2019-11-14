@@ -24,7 +24,7 @@ http://27.147.156.14:1935/Channel-24/Channel-24.stream/chunks.m3u8
 #EXTINF:-1,CHANNEL I
 https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
 #EXTINF:-1,CHANNEL I (Extra)
-http://iptv.kitv.live:1935/live/Shari/MTV-P/108.ts
+http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1,Channel S
 https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 #EXTINF:-1,DBC News
@@ -75,18 +75,16 @@ http://27.147.156.14:1935/R-TV/R-TV.stream/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
 #EXTINF:-1,Somoy News
 http://27.147.156.14:1935/Somoy-TV/Somoy-TV.stream/chunks.m3u8
+#EXTINF:-1,Peace TV Bangla
+http://cdn.bd-cast.net/origin/173.199.116.220/hls/peacetv.m3u8?st=bSJqwkxePwLGnv0bC9NF0w&e=1573742988
 #EXTINF:-1,ABP Ananada
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1,RPLUS NEWS
 http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh4.stream_aac/playlist.m3u8
 #EXTINF:-1,ARTAGE NEWS
 http://artage.livebox.co.in/ArtageNewshls/live.m3u8
-#EXTINF:-1,Akash AATH
-http://iptv.kitv.live:1935/live/Shari/MTV-P/130.ts
 #EXTINF:-1,Colors Bangla
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
-#EXTINF:-1,KOLKATA TV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/202.ts
 #EXTINF:-1,Ruposhi Bangla
 http://iptv.kitv.live:1935/live/Shari/MTV-P/153.ts
 #EXTINF:-1,SONY AATH
@@ -117,6 +115,8 @@ http://nandansyst.com/hls/nandan.m3u8
 https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 #EXTINF:-1,Sangeet Bangla
 https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
+#EXTINF:-1,ATN Music
+http://iptvbd.jagobd.com:1934/atnapp/atnmusic.stream/playlist.m3u8
 #EXTINF:-1,Assam Talk
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
 #EXTINF:-1,DY365
@@ -125,8 +125,6 @@ http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh1.stream_aac/playlist.m3u8
 http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh2.stream_aac/playlist.m3u8
 #EXTINF:-1,Pratidin Time
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
-#EXTINF:-1,SONY YAY
-http://iptv.kitv.live:1935/live/Shari/MTV-P/172.ts
 #EXTINF:-1,DISENY XD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/171.ts
 #EXTINF:-1,Disney Junior
@@ -281,8 +279,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index
 https://akamai.anytv.live/StarMoviesHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Movies UAE
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
-#EXTINF:-1,HBO
-http://iptv.kitv.live:1935/live/Shari/MTV-P/153.ts
 #EXTINF:-1,AXN
 http://iptv.kitv.live:1935/live/Shari/MTV-P/151.ts
 #EXTINF:-1,LOTUS MOVIES
