@@ -75,8 +75,6 @@ http://27.147.156.14:1935/R-TV/R-TV.stream/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
 #EXTINF:-1,Somoy News
 http://27.147.156.14:1935/Somoy-TV/Somoy-TV.stream/chunks.m3u8
-#EXTINF:-1,Peace TV Bangla
-http://cdn.bd-cast.net/origin/173.199.116.220/hls/peacetv.m3u8?st=bSJqwkxePwLGnv0bC9NF0w&e=1573742988
 #EXTINF:-1,ABP Ananada
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1,RPLUS NEWS
@@ -99,8 +97,6 @@ https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 #EXTINF:-1,Zee Bangla Cinema
 http://27.147.156.14:1935/Zee-Bangla-Cinema/Zee-Bangla-Cinema.stream/chunks.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL
-http://iptv.kitv.live:1935/live/Shari/MTV-P/167.ts
 #EXTINF:-1,CHANNEL T1
 http://128.199.212.160/channelt1/1080/index.m3u8
 #EXTINF:-1,Probashi Bangla
