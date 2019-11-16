@@ -281,7 +281,7 @@ https://akamai.anytv.live/StarMoviesHD/tracks-v1a1/mono.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1,AXN
 http://iptv.kitv.live:1935/live/Shari/MTV-P/151.ts
-EXTINF:-1,HBO
+#EXTINF:-1,HBO
 http://iptv.kitv.live:1935/live/Shari/MTV-P/153.ts
 #EXTINF:-1,LOTUS MOVIES
 http://iptv.kitv.live:1935/live/Shari/MTV-P/138.ts
