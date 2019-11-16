@@ -269,6 +269,16 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.
 https://cvtv.cvalley.net/hls/FS1/FS1.m3u8?fluxustv.m3u8
 #EXTINF:-1,Horizon Sports
 https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
+#EXTINF:-1,OLYMPIC CHANNEL 1 (HD)
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+#EXTINF:-1,OLYMPIC CHANNEL 2 (HD)
+https://ott-live.olympicchannel.com/out/u/OC2_2.m3u8
+#EXTINF:-1,OLYMPIC CHANNEL 3 (HD)
+https://ott-live.olympicchannel.com/out/u/OC3_2.m3u8
+#EXTINF:-1,OLYMPIC CHANNEL 4 (HD)
+https://ott-live.olympicchannel.com/out/u/OC4_2.m3u8
+#EXTINF:-1,OLYMPIC CHANNEL 5 (HD)
+https://ott-live.olympicchannel.com/out/u/OC5_2.m3u8
 #EXTINF:-1,SPORTS TV
 https://mn-nl.mncdn.com/blutv_live/sportstv/sportstv.smil/chunklist_b1596000_sltur.m3u8
 #EXTINF:-1,SHARJAH SPORTS
@@ -319,7 +329,7 @@ http://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8
 http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
 #EXTINF:-1,TAG TV
 https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
-#EXTINF:-1, Zee News
+#EXTINF:-1,Zee News
 http://216.144.250.174/Zee_NeWs_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sunnah
 http://m.live.net.sa:1935/live/sunnah/chunklist_w130539997.m3u8?v=3161277789
@@ -367,7 +377,7 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 http://akamai.anytv.live/AndPicHHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee Cinema
 https://akamai.anytv.live/ZeeCinemaHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Zee Cinema HD
+#EXTINF:-1,Zee Cinema HD
 http://216.144.250.174/Zee_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,B4U Movies
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
@@ -407,15 +417,15 @@ http://tx.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991
 http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8
 #EXTINF:-1,Zee Aflam
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
-#EXTINF:-1, Zee Anmol
+#EXTINF:-1,Zee Anmol
 http://216.144.250.174/Zee_Anm0l_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Zee Bollywood
+#EXTINF:-1,Zee Bollywood
 http://216.144.250.174/Zee_ClassIc_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Zee Action
+#EXTINF:-1,Zee Action
 http://216.144.250.174/Zee_ActIon_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zing
 http://livecdnh1.tvanywhere.ae/hls/zing/index.m3u8
-#EXTINF:-1, Zing HD
+#EXTINF:-1,Zing HD
 http://216.144.250.174/ZIng_TV_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Colors
 https://akamai.anytv.live/ColorsHHD/tracks-v1a1/mono.m3u8
@@ -437,7 +447,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/141.ts
 http://216.144.250.174/Star_VIjay_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee TV
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
-#EXTINF:-1, Zee TV HD
+#EXTINF:-1,Zee TV HD
 http:/216.144.250.174/Zee_TV_HD_o2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ZEE BIOSKOP
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
