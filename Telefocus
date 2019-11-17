@@ -451,6 +451,8 @@ https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 http://216.144.250.174/Zee_TV_HD_o1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ZEE BIOSKOP
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
+#EXTINF:-1,ZEE MUNDO
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 #EXTINF:-1,&flix
 https://akamai.anytv.live/StarBharatHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,B4U Plus
