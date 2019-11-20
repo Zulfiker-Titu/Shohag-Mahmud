@@ -157,6 +157,10 @@ http://23.106.120.56:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 http://23.106.120.56:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
 #EXTINF:-1,Madani Channel Bangla
 http://svs.itworkscdn.net/madanitvbalive/mdtvb.smil/playlist.m3u8
+#EXTINF:-1,Khushboo Bangla
+http://207.180.245.200:1935/live1/live1/chunklist_w869708369_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNTc0MjIwNjYwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNTc0MjE3MDYwJmJkaXhzcG9ydHN0b2tlbmhhc2g9Tmd3dlRGdDloOFp0d2NlVmdPMzJtRFZOUkZSempzYjFCV3NOckJRMWhTYz0=.m3u8
+#EXTINF:-1,CTVN AKD Plus
+http://217.182.72.190/ctvnhls/live.m3u8
 #EXTINF:-1,Nandan TV
 http://nandansyst.com/hls/nandan.m3u8
 #EXTINF:-1,Alif TV
@@ -185,10 +189,18 @@ http://tempmix.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFz
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
 #EXTINF:-1,DY365
 http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh1.stream_aac/playlist.m3u8
+#EXTINF:-1,NEWS LIVE
+http://rtmp.smartstream.video:1935/newsliveold/newsliveold/playlist.m3u8
 #EXTINF:-1,Jonack TV
 http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh2.stream_aac/playlist.m3u8
 #EXTINF:-1,Pratidin Time
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
+#EXTINF:-1,NEWS7
+http://news7.mycast.in/encode/news7/playlist.m3u8
+#EXTINF:-1,mbc TV
+http://gmkd57vernxo-hls-live.wmncdn.net/mbctv/live.stream/index.m3u8
+#EXTINF:-1,Naxatra News
+http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
 #EXTINF:-1,DISENY XD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/171.ts
 #EXTINF:-1,Disney Junior
@@ -350,6 +362,8 @@ http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
 https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
 #EXTINF:-1,Zee News
 http://216.144.250.174/Zee_NeWs_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Makkah LIVE
+http://m.live.net.sa:1935/live/quran/chunklist_w2057676413.m3u8
 #EXTINF:-1,Sunnah
 http://m.live.net.sa:1935/live/sunnah/chunklist_w130539997.m3u8?v=3161277789
 #EXTINF:-1,MADANI CHANNEL (English)
