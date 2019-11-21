@@ -147,6 +147,8 @@ http://tempmix.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFz
 http://tempmix.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/familytv.stream/chunks.m3u8
 #EXTINF:-1,AB Channel
 http://tempmix.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/abtv.stream/chunks.m3u8
+#EXTINF:-1,Abong TV
+http://43.231.22.238:8081/Abong/abnongtv/chunks.m3u8
 #EXTINF:-1,Peace TV Bangla
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
 #EXTINF:-1,Atn Islam
@@ -470,6 +472,8 @@ http://216.144.250.174/ZIng_TV_HD/tracks-v1a1/mono.m3u8
 https://akamai.anytv.live/ColorsHHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,HUM SITARAY
 http://27.147.156.14:1935/HUM_SITARAY/HUM_SITARAY.stream/chunklist_w186688056.m3u8
+#EXTINF:-1,Sony TV
+http://216.144.250.174/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SONY MAX 1
 http://103.121.36.238:8081/live/satmax-37/chunks.m3u8
 #EXTINF:-1,Sony MAX 2
@@ -480,6 +484,8 @@ http://216.144.250.174/S0ny_Sab_HD/tracks-v1a1/mono.m3u8
 http://216.144.250.174/Sony_MaX_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony MIX
 http://216.144.250.174/Sony_Mix_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SONY PIX
+http://iptv.kitv.live:1935/live/Shari/MTV-P/148.ts
 #EXTINF:-1,Star Plus
 http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Gold
