@@ -86,7 +86,7 @@ http://103.81.104.222/live/sonyaath/index.m3u8
 #EXTINF:-1,Star Jalsha
 https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 #EXTINF:-1,Jalsha Movies
-https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+http://103.121.36.238:8081/live/jalshamovies/chunks.m3u8
 #EXTINF:-1,Zee Bangla
 http://103.121.36.238:8081/live/zeebanglahd-25/chunks.m3u8
 #EXTINF:-1,Zee Bangla Cinema
@@ -149,6 +149,8 @@ http://tempmix.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFz
 http://tempmix.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/abtv.stream/chunks.m3u8
 #EXTINF:-1,Abong TV
 http://43.231.22.238:8081/Abong/abnongtv/chunks.m3u8
+#EXTINF:-1,News 16
+http://43.231.22.238:8081/news16tv/news16tv/chunks.m3u8
 #EXTINF:-1,Peace TV Bangla
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
 #EXTINF:-1,Atn Islam
@@ -214,9 +216,9 @@ http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144
 #EXTINF:-1,ANYPLUS
 http://45.126.83.51/dr9445/h/h02/01.m3u8
 #EXTINF:-1,Boomerang
-http://mobilesvet.gcdn.co/livecacheloworigin/boomerang.stream/chunklist.m3u8?md5=-0h_718WwPt7cPQDrtCYjQ&expires=1574432687
+http://mobilesvet.gcdn.co/livecacheloworigin/boomerang.stream/chunklist.m3u8?md5=DiGsmTK66JVpbUQxPzusVg&expires=1574521595
 #EXTINF:-1,CARTOON NETWORK 1
-http://mobilesvet.gcdn.co/livecacheloworigin/cartoonnetwork.stream/chunklist.m3u8?md5=Scb2C6H0sE4BcOm83kK67A&expires=1574432687
+http://mobilesvet.gcdn.co/livecacheloworigin/cartoonnetwork.stream/chunklist.m3u8?md5=bAOWLtoPAKUoZieDBSYzpQ&expires=1574521998
 #EXTINF:-1,CARTOON NETWORK 2
 http://103.111.120.46/hls/Carton_Network.m3u8
 #EXTINF:-1,CARTOON NETWORK 3
@@ -319,6 +321,8 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 http://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
 #EXTINF:-1,SPORTSCAST
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1,Willow
+http://m3ulink.com:7899/effects360wireless1-restream/2Q4boqEN/4403
 #EXTINF:-1,WWE NETWORK
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 #EXTINF:-1,ABC News
@@ -384,17 +388,17 @@ https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/playlist.m3u8?
 #EXTINF:-1,FOOD52
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1,Star Movies India
-http://103.121.36.238:8081/live/starmovies/chunks.m3u8
+http://m3ulink.com:7899/effects360wireless1-restream/2Q4boqEN/5641
 #EXTINF:-1,Star Movies UAE
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1,AXN
-http://mobilesvet.gcdn.co/livecacheloworigin/axn.stream/chunklist.m3u8?md5=pGK36pTxJY8N7mQMstpvBA&expires=1574432169
+http://mobilesvet.gcdn.co/livecacheloworigin/axn.stream/media-upq51ak6o_111243.ts?md5=WDTWlwAQ92PryJwomBBi-g&expires=1574521595
 #EXTINF:-1,FilmBox Plus
-http://mobilesvet.gcdn.co/livecacheloworigin/filmplus.stream/chunklist.m3u8?md5=-nkKVAxZx4rhPyHQC-IsEQ&expires=1574432687
+http://mobilesvet.gcdn.co/livecacheloworigin/filmplus.stream/chunklist.m3u8?md5=62PwCLtSv2BUU7v_J6RQew&expires=1574522322
 #EXTINF:-1,FilmBox Arthouse
-http://mobilesvet.gcdn.co/livecacheloworigin/arthouse.stream/chunklist.m3u8?md5=0d7KlMh9rBknpclukbZRBw&expires=1574432687
+http://mobilesvet.gcdn.co/livecacheloworigin/arthouse.stream/chunklist.m3u8?md5=O7a3xDvxanNCZAxNOJhKLA&expires=1574522322
 #EXTINF:-1,HBO
-http://iptv.kitv.live:1935/live/Shari/MTV-P/153.ts
+http://m3ulink.com:7899/effects360wireless1-restream/2Q4boqEN/5699
 #EXTINF:-1,ROMEDY NOW
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1,FILMRISE MOVIES
@@ -484,7 +488,7 @@ http://216.144.250.174/Sony_MaX_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony MIX
 http://216.144.250.174/Sony_Mix_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SONY PIX
-http://iptv.kitv.live:1935/live/Shari/MTV-P/148.ts
+http://m3ulink.com:7899/effects360wireless1-restream/2Q4boqEN/7703
 #EXTINF:-1,Star Plus
 http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Gold
@@ -638,7 +642,7 @@ http://103.68.116.50/live/feed1002/index.m3u8
 #EXTINF:-1,MTV MIX UFA
 http://81.30.182.82:18092/hls/live.m3u8
 #EXTINF:-1,MTV Adria
-http://mobilesvet.gcdn.co/livecacheloworigin/mtvadria.stream/chunklist.m3u8?md5=86q4b3bxFKsHMs003WrV8g&expires=1574437429
+http://mobilesvet.gcdn.co/livecacheloworigin/mtvadria.stream/chunklist.m3u8?md5=ttsWKGbYHZ7PvPOmcecX8w&expires=1574522322
 #EXTINF:-1,Steelbird Music
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 #EXTINF:-1,MUSIC CHOICE
