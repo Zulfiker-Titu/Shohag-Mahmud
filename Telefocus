@@ -270,7 +270,6 @@ http://103.121.36.238:8081/live/bein1/chunks.m3u8
 #EXTINF:-1,Live Football 1
 http://95.170.215.118/hls/m3u8/Kurd-Goal.m3u8
 #EXTINF:-1,Live Football 2
-http://falconiptv.hopto.org:1935/f1/_definst_/f1/chunklist_w245095144.m3u8
 http://blutv-beta.akamaized.net/trtsporhd/trtsporhd.smil/chunklist_b1596000_sltur.m3u8
 #EXTINF:-1,Dsport
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
