@@ -270,7 +270,7 @@ http://95.170.215.118/hls/m3u8/Kurd-Goal.m3u8
 #EXTINF:-1,Live Football 2
 http://blutv-beta.akamaized.net/trtsporhd/trtsporhd.smil/chunklist_b1596000_sltur.m3u8
 #EXTINF:-1,Live Football 3
-https://103.111.120.46/hls/star-sports-select-2-hd.m3u8
+http://103.111.120.46/hls/star-sports-select-2-hd.m3u8
 #EXTINF:-1,Dsport
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
 #EXTINF:-1,Abudhabi Sports 1
@@ -471,7 +471,9 @@ https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 http://27.147.156.14:1935/HUM_SITARAY/HUM_SITARAY.stream/chunklist_w186688056.m3u8
 #EXTINF:-1,Sony TV
 http://216.144.250.174/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SONY MAX
+#EXTINF:-1,SONY MAX 1
+http://103.121.36.238:8081/live/satmax-37/chunks.m3u8
+#EXTINF:-1,SONY MAX 2
 http://216.144.250.174/Sony_MaX_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony MAX2
 http://216.144.250.174/Sony_MaX_HD_02/tracks-v1a1/mono.m3u8
@@ -491,16 +493,18 @@ https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Vijay
 http://216.144.250.174/Star_VIjay_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Zee TV HD
+#EXTINF:-1,Zee TV 1
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
-EXTINF:-1,Zee TV
+#EXTINF:-1,Zee TV 2
 http://27.147.156.14:1935/8-XM/8-XM.stream/chunklist_w1620307040.m3u8
 #EXTINF:-1,ZEE BIOSKOP
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1,ZEE MUNDO
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
-#EXTINF:-1,&flix
+#EXTINF:-1,&flix 1
 https://akamai.anytv.live/StarBharatHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,&flix 2
+http://103.121.36.238:8081/live/andflix-29/chunks.m3u8
 #EXTINF:-1,B4U Plus
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 #EXTINF:-1,DD National
@@ -599,6 +603,8 @@ http://ktvhdnp24.ekantipur.com:8081/ktvhdedgenp1/edgenpcdnlive1/playlist.m3u8
 https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 #EXTINF:-1,History TV
 https://itpolly.iptv.digijadoo.net/live/history_tv/chunks.m3u8
+#EXTINF:-1,History Channel
+http://live.savitar.tv/History/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAxOSAyOjExOjQ3IEFNJmhhc2hfdmFsdWU9cDEzRWZ3azRtajNBN0NQV2hMZ3RLUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:-1,ANIMAL PLANET
 http://103.121.36.238:8081/live/animalplanet-13/chunks.m3u8
 #EXTINF:-1,NAT GEO WILD 1
