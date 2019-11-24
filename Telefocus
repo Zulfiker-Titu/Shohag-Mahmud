@@ -451,6 +451,8 @@ http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2
 http://tx.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1.m3u8
 #EXTINF:-1,MANDARIN MOVIES 5
 http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8
+#EXTINF:-1,Cinema 2
+http://103.68.116.50/live/feed1004/index.m3u8
 #EXTINF:-1,Zee Aflam
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
 #EXTINF:-1,Zee Anmol
@@ -477,8 +479,10 @@ http://103.121.36.238:8081/live/satmax-37/chunks.m3u8
 http://216.144.250.174/Sony_MaX_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony MAX2
 http://216.144.250.174/Sony_MaX_HD_02/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony MIX
+#EXTINF:-1,Sony MIX 1
 http://216.144.250.174/Sony_Mix_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony MIX 2
+http://103.68.116.50/live/feed1009/index.m3u8
 #EXTINF:-1,Sony SAB
 http://216.144.250.174/S0ny_Sab_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SONY PIX
@@ -627,6 +631,8 @@ http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 http://27.147.156.14:1935/9-XM/9-XM.stream/playlist.m3u8
 #EXTINF:-1,9x Jalwa
 http://27.147.156.14:1935/9x-Jalwa/9x-Jalwa.stream/playlist.m3u8
+#EXTINF:-1,9xO
+http://103.68.116.50/live/feed1010/index.m3u8
 #EXTINF:-1,Zoom
 https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
 #EXTINF:-1,B4U Music
