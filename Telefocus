@@ -93,7 +93,7 @@ http://103.121.36.238:8081/live/zeebanglahd-25/chunks.m3u8
 http://27.147.156.14:1935/Zee-Bangla-Cinema/Zee-Bangla-Cinema.stream/chunks.m3u8
 #EXTINF:-1,DISCOVERY CHANNEL
 http://103.81.104.222/live/discovery-ch/index.m3u8
-#EXTINF:-1,CHANNEL T1
+#EXTINF:-1,Channel T1
 http://128.199.212.160/channelt1/1080/index.m3u8
 #EXTINF:-1,Provashi Bangla
 http://vod.beeiptv.com:8081/vod/probashibangla/playlist.m3u8
@@ -386,9 +386,11 @@ https://akamai.anytv.live/StarMoviesHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Movies UAE
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1,AXN
-http://iptv.kitv.live:1935/live/Shari/MTV-P/151.ts
+http://210.210.155.35/session/b2c42346-fb7e-11e9-b0e3-977c96db5c70/uq2663/h/h141/01.m3u8
 #EXTINF:-1,HBO
 http://m3ulink.com:7899/effects360wireless1-restream/2Q4boqEN/5699
+#EXTINF:-1,A HBO
+http://ott-cdn.ucom.am/s64/index.m3u8?fluxustv.m3u8
 #EXTINF:-1,ROMEDY NOW
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1,FILMRISE MOVIES
@@ -649,8 +651,6 @@ http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
 http://103.68.116.50/live/feed1002/index.m3u8
 #EXTINF:-1,MTV MIX UFA
 http://81.30.182.82:18092/hls/live.m3u8
-#EXTINF:-1,MTV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/181.ts
 #EXTINF:-1,Steelbird Music
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 #EXTINF:-1,MUSIC CHOICE
