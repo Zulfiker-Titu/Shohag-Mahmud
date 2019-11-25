@@ -81,8 +81,10 @@ http://tv24bangla.logosys.in:8080/hls/tv24bangla.m3u8
 http://27.147.156.14:1935/Aakaash-Aath/Aakaash-Aath.stream/playlist.m3u8
 #EXTINF:-1,Colors Bangla
 http://163.172.29.246:8081/globe/colorsbangla/chunks.m3u8
-#EXTINF:-1,SONY AATH
+#EXTINF:-1,Sony Aath 1
 http://103.81.104.222/live/sonyaath/index.m3u8
+#EXTINF:-1,Sony Aath 2
+http://173.82.54.226:8080/live/SONY-AATH/CH228864/0e110191c12ea86f439149e5d1c901bb05f63946e6f1955234c9c4625817a9be/SONY-AATH_2_playlist.m3u8
 #EXTINF:-1,Star Jalsha
 https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 #EXTINF:-1,Jalsha Movies
@@ -453,6 +455,8 @@ http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2
 http://tx.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1.m3u8
 #EXTINF:-1,MANDARIN MOVIES 5
 http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8
+#EXTINF:-1,SONY MOVIES CHRISTMAS
+http://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,Cinema 2
 http://103.68.116.50/live/feed1004/index.m3u8
 #EXTINF:-1,Zee Aflam
