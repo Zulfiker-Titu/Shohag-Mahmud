@@ -83,10 +83,8 @@ http://tv24bangla.logosys.in:8080/hls/tv24bangla.m3u8
 http://27.147.156.14:1935/Aakaash-Aath/Aakaash-Aath.stream/playlist.m3u8
 #EXTINF:-1,Colors Bangla
 http://163.172.29.246:8081/globe/colorsbangla/chunks.m3u8
-#EXTINF:-1,Sony Aath 1
+#EXTINF:-1,Sony Aath
 http://103.81.104.222/live/sonyaath/index.m3u8
-#EXTINF:-1,Sony Aath 2
-http://173.82.54.226:8080/live/SONY-AATH/CH228864/0e110191c12ea86f439149e5d1c901bb05f63946e6f1955234c9c4625817a9be/SONY-AATH_2_playlist.m3u8
 #EXTINF:-1,Star Jalsha
 https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 #EXTINF:-1,Jalsha Movies
@@ -615,8 +613,6 @@ http://ktvhdnp24.ekantipur.com:8081/ktvhdedgenp1/edgenpcdnlive1/playlist.m3u8
 https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 #EXTINF:-1,History TV
 https://itpolly.iptv.digijadoo.net/live/history_tv/chunks.m3u8
-#EXTINF:-1,History Channel
-http://live.savitar.tv/History/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAxOSAyOjExOjQ3IEFNJmhhc2hfdmFsdWU9cDEzRWZ3azRtajNBN0NQV2hMZ3RLUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:-1,ANIMAL PLANET
 http://103.121.36.238:8081/live/animalplanet-13/chunks.m3u8
 #EXTINF:-1,NAT GEO WILD 1
@@ -625,7 +621,9 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8?IWAK-PEYEK.m3u8
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1,NAT GEO PEOPLE
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
-#EXTINF:-1,National Geographic
+#EXTINF:-1,National Geographic 1
+http://103.121.36.238:8081/live/natgeohd/chunks.m3u8
+#EXTINF:-1,National Geographic 1
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1,4K TV Showcase
 http://stitcher.pluto.tv/stitch/hls/channel/553838c8c0b860c11a631f3a/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=false
@@ -675,3 +673,9 @@ http://streaming.i-sat.tv:1935/livestream/MusicAl-haneen/chunklist_w379649003.m3
 http://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:-1,BOX HITS
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1,Q Music
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8
+#EXTINF:-1,Subrang TV
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:-1,vh HD
+http://103.121.36.238:8081/live/mtv-14/chunks.m3u8
