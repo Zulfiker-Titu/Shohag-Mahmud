@@ -289,8 +289,8 @@ http://103.121.36.238:8081/live/select1/chunks.m3u8
 http://103.121.36.238:8081/live/select2/chunks.m3u8
 #EXTINF:-1,Dubai Sports
 http://103.121.36.238:8081/live/bein1/chunks.m3u8
-#EXTINF:-1,Sky Net Sports
-http://103.111.120.46/hls/star-sports-select-2-hd.m3u8
+#EXTINF:-1,Sky Net Sports 2
+http://103.118.76.229:1935/tvprogram/CBeebies/playlist.m3u8
 #EXTINF:-1,Sky Sports Cricket
 http://103.121.36.238:8081/live/skyfootball/chunks.m3u8
 #EXTINF:-1,Ten Sports
@@ -506,7 +506,7 @@ http://216.144.250.174/ZIng_TV_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Colors (Opt-1)
 https://akamai.anytv.live/ColorsHHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Colors (Opt-2)
-https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+https://triangle.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1,Colors (Opt-3)
 http://fr-c.movply.stream/hls/Colors.m3u8
 #EXTINF:-1,HUM SITARAY
