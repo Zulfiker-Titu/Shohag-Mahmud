@@ -99,6 +99,8 @@ http://27.147.156.14:1935/Zee-Bangla-Cinema/Zee-Bangla-Cinema.stream/chunks.m3u8
 http://streamidvo.multitvsolution.in/RPlusGold-e/playlist.m3u8
 #EXTINF:-1,Orange Bangla
 http://streamidvo.multitvsolution.in/OrangeTV-b/playlist.m3u8
+#EXTINF:-1,nexGTv Bengali Movies
+http://movies.nexg.tv/movie-b/movie-b.smil/playlist.m3u8
 #EXTINF:-1,DD Bangla
 http://streamidvo.multitvsolution.in/DDBangla-c/playlist.m3u8
 #EXTINF:-1,ABP Ananada
@@ -397,8 +399,10 @@ https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
 http://live.zecast.net/ntvglobal/nepalitv/chunklist.m3u8
 #EXTINF:-1,RT News
 http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtnews.stream/playlist.m3u8
-#EXTINF:-1,Zee News
+#EXTINF:-1,Zee News (Opt-1)
 http://216.144.250.174/Zee_NeWs_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Zee News (Opt-2)
+http://jiotvppl.indmovies.in/jionew/ZEE_NEWS_1200.m3u8
 #EXTINF:-1,Saudi Quran
 http://27.147.156.14:1935/Saudi-Quran/Saudi-Quran.stream/playlist.m3u8
 #EXTINF:-1,Saudi Sunnah
@@ -415,8 +419,10 @@ http://vodaapp.shemaroo.com/gangaaarti/Stream1/playlist.m3u8
 http://cdn.live.shemaroome.com/karanimata/smil:karanimataadp.smil/chunklist_b1128000_sleng.m3u8
 #EXTINF:-1,HUM MASALA
 http://27.147.156.14:1935/HUM_MASALA/HUM_MASALA.stream/playlist.m3u8
-#EXTINF:-1,FOOD FOOD
+#EXTINF:-1,FOOD FOOD (Opt-1)
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/playlist.m3u8?e=0&h=c97c566b44b7eaae0f80526ffd838aa1&__nn__=5606168722001&hdnea=1572355800_980c04e0053042ec83efd6f203533916
+#EXTINF:-1,FOOD FOOD (Opt-2)
+http://jiotvppl.indmovies.in/jionew/FOOD_FOOD_1200.m3u8
 #EXTINF:-1,Star Movies HD (Opt-1)
 https://akamai.anytv.live/StarMoviesHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Movies HD (Opt-2)
@@ -479,6 +485,16 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(167772
 http://27.147.156.14:1935/Housefull-Action/Housefull-Action.stream/playlist.m3u8
 #EXTINF:-1,Express
 http://27.147.156.14:1935/Express/Express.stream/playlist.m3u8
+#EXTINF:-1,nexGTv Hollywood Movies
+http://movies.nexg.tv/movie-h/_definst_/movie-h.smil/playlist.m3u8
+#EXTINF:-1,nexGTv Movies
+http://movies.nexg.tv/movie/_definst_/movie.smil/playlist.m3u8
+#EXTINF:-1,nexGTv Classic
+http://movies.nexg.tv/movie-cl/_definst_/movie-cl.smil/playlist.m3u8
+#EXTINF:-1,nexGTv Cinema Movies
+http://movies.nexg.tv/movie-c/_definst_/movie-c.smil/playlist.m3u8
+#EXTINF:-1,nexGTv Tamil Movies
+http://movies.nexg.tv/movie-t/movie-t.smil/playlist.m3u8
 #EXTINF:-1,Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1,WOWOW CINEFIL
@@ -505,16 +521,26 @@ http://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v
 http://103.68.116.50/live/feed1004/index.m3u8
 #EXTINF:-1,Zee Aflam
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
-#EXTINF:-1,Zee Anmol
+#EXTINF:-1,Zee Anmol (Opt-1)
 http://216.144.250.174/Zee_ActIon_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Zee Bollywood
+#EXTINF:-1,Zee Anmol (Opt-2)
+http://jiotvppl.indmovies.in/jionew/ZEE_ANMOL_1200.m3u8
+#EXTINF:-1,Zee Bollywood (Opt-1)
 http://216.144.250.174/Zee_ClassIc_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Zee Action
+#EXTINF:-1,Zee Bollywood (Opt-2)
+http://jiotvppl.indmovies.in/jionew/ZEE_CLASSIC_1200.m3u8
+#EXTINF:-1,Zee Action (Opt-1)
 http://216.144.250.174/Zee_ActIon_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Zee Action (Opt-2)
+http://jiotvppl.indmovies.in/jionew/ZEE_ACTION_1200.m3u8
+#EXTINF:-1,Zee Talkies
+http://jiotvppl.indmovies.in/jionew/ZEE_TALKIES_1200.m3u8
 #EXTINF:-1,UTV
 http://103.81.104.222/live/utvv/index.m3u8
-#EXTINF:-1,Zing
+#EXTINF:-1,Zing (Opt-1)
 http://livecdnh1.tvanywhere.ae/hls/zing/index.m3u8
+#EXTINF:-1,Zing (Opt-2)
+http://jiotvppl.indmovies.in/jionew/ZING_1200.m3u8
 #EXTINF:-1,Zing/ARY
 http://216.144.250.174/ZIng_TV_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Colors (Opt-1)
